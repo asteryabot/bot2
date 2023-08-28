@@ -1,0 +1,25 @@
+{
+  "name": "bg-guard-system",
+  "version": "1.0.0",
+  "description": "Gizemli bir discord botu.",
+  "main": "bg.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1",
+    "start": "node bg.js"
+  },
+  "author": "bgg",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "request": "^2.88.2",
+    "winston": "^3.3.3"
+
+  }
+}
